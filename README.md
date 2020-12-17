@@ -1,4 +1,4 @@
-# paarshav1.github.io
+
 <html>
     <script type="text/javascript">
         function image(img) {
